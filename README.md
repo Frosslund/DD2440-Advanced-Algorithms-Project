@@ -2,7 +2,7 @@
 
 Final project in the course DD2440 Advanced Algorithms at KTH Royal Institute of Technology. Project focused on the Minimum Spanning Forest (MSF) problem, where the task was to implement a sub-linear time algorithm with an approximate solution to the MSF problem.
 
-More details available in the <a href="#">project report</a>
+More details available in the <a href="https://github.com/Frosslund/DD2440-Advanced-Algorithms-Project/blob/main/MSF_Project_Report.pdf">project report</a>
 
 ## Team Members
 
